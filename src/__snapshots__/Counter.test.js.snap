@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches dom snapshot 1`] = `
+<div>
+  <h1
+    data-testid="counter"
+  >
+    0
+  </h1>
+  <button
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    -
+  </button>
+</div>
+`;
